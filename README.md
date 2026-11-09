@@ -11,6 +11,17 @@
 - 🌱 Estou sempre buscando aprender novas linguagens e ferramentas.
 - 🎯 Meu objetivo é desenvolver minhas habilidades e construir projetos que resolvam problemas reais.
 
+🎯 Meus Objetivos
+
+- Evoluir minhas habilidades em programação e desenvolvimento de software.
+- Aprender novas tecnologias e ferramentas.
+- Desenvolver projetos e adquirir experiência prática.
+- Conquistar oportunidades profissionais na área de tecnologia.
+
+🚀 Minha Jornada
+
+Minha jornada na tecnologia começou pela curiosidade de entender como softwares e sistemas funcionam. Atualmente, curso Ciências da Computação e busco ampliar meus conhecimentos em programação, desenvolver projetos e crescer profissionalmente na área.
+
 🛠️ Tecnologias e ferramentas
 
 Tecnologias que estou estudando e pretendo desenvolver minhas habilidades:
