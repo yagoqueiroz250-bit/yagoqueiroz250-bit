@@ -87,10 +87,10 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e minha evolu
 📫 Contato
 <p align="left">
   <a href="https://www.instagram.com/queirozz_yago/">
-    <img src="https://img.shields.io/badge/Instagram-@queirozz_yago@-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@QUEIROZZ_YAGO@-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/wilchid-vilsaint-a19356421/">
-    <img src="https://img.shields.io/badge/LinkedIn-WILCHID%20VILSAINT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yago-qu31r0z/">
+    <img src="https://img.shields.io/badge/LinkedIn-YAGO-QU31R0Zstyle=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 ⭐ Obrigado pela visita ao meu perfil! Fique à vontade para explorar meus projetos.
