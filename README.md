@@ -90,7 +90,7 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e minha evolu
     <img src="https://img.shields.io/badge/Instagram-@QUEIROZZ_YAGO@-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yago-qu31r0z/">
-    <img src="https://img.shields.io/badge/LinkedIn-YAGO-QU31R0Zstyle=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-YAGO-QU31R0Z?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 ⭐ Obrigado pela visita ao meu perfil! Fique à vontade para explorar meus projetos.
