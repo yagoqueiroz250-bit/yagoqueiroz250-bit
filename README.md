@@ -27,9 +27,70 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e minha evolu
 
 📫 Contato
 
+-👋 Olá! Eu sou o Yago Queiroz
+
+🎓 Estudante de Ciências da Computação
+💻 Interessado em tecnologia e desenvolvimento de software
+🚀 Em constante aprendizado e evolução na programação.
+
+🧑‍💻 Sobre mim
+
+- 📚 Atualmente cursando Ciências da Computação.
+- 💡 Tenho interesse em desenvolvimento de software e tecnologia.
+- 🌱 Estou sempre buscando aprender novas linguagens e ferramentas.
+- 🎯 Meu objetivo é desenvolver minhas habilidades e construir projetos que resolvam problemas reais.
+
+🛠️ Tecnologias e ferramentas
+
+Tecnologias que estou estudando e pretendo desenvolver minhas habilidades:
+
+- 💻 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+- 🐍 Python
+- 🔧 Git e GitHub
+
+📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos e minha evolução na programação.
+
+📫 Contato
+
 - 💼 LinkedIn: "Meu LinkedIn" (SEU_LINK_DO_LINKEDIN)
-- 📧 E-mail: SEU_EMAIL
+👋 Olá! Eu sou o Yago Queiroz
 
----
+🎓 Estudante de Ciências da Computação
+💻 Interessado em tecnologia e desenvolvimento de software
+🚀 Em constante aprendizado e evolução na programação.
 
+🧑‍💻 Sobre mim
+
+- 📚 Atualmente cursando Ciências da Computação.
+- 💡 Tenho interesse em desenvolvimento de software e tecnologia.
+- 🌱 Estou sempre buscando aprender novas linguagens e ferramentas.
+- 🎯 Meu objetivo é desenvolver minhas habilidades e construir projetos que resolvam problemas reais.
+
+🛠️ Tecnologias e ferramentas
+
+Tecnologias que estou estudando e pretendo desenvolver minhas habilidades:
+
+- 💻 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+- 🐍 Python
+- 🔧 Git e GitHub
+
+📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos e minha evolução na programação.
+
+📫 Contato
+<p align="left">
+  <a href="https://www.instagram.com/queirozz_yago/">
+    <img src="https://img.shields.io/badge/Instagram-@queirozz_yago@-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wilchid-vilsaint-a19356421/">
+    <img src="https://img.shields.io/badge/LinkedIn-WILCHID%20VILSAINT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ⭐ Obrigado pela visita ao meu perfil! Fique à vontade para explorar meus projetos.
