@@ -1,4 +1,4 @@
-<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFmOTN3dWk3ejNkNDZvcjRsdXhnajJjdzUwb3A0aGtleHNnN3VwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0ExcZR3msPMnknBu/giphy.gif" width="100px" />
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFmOTN3dWk3ejNkNDZvcjRsdXhnajJjdzUwb3A0aGtleHNnN3VwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0ExcZR3msPMnknBu/giphy.gif" width="100%"  height= "150px" />
 👋 Olá! Eu sou o Yago Queiroz
 
 🎓 Estudante de Ciências da Computação
